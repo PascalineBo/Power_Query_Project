@@ -1,2 +1,8 @@
 # Power_Query_Project
-Collectez et transformer des données pour respecter les normes RGPD
+Collect and transform data to respect GDPR requirements
+
+## Collect Data with SQL Requests
+
+## Transform Data using Microsoft Power Query
+See Boireau_Pascaline_3_rapport_042023.pdf
+
